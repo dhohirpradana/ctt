@@ -10,4 +10,4 @@ pip install requests
 pkg install git
 git clone https://github.com/dhohirpradana/tcc.py
 cd tcc
-python3 tcc.py
+python3 tcc.pyc
