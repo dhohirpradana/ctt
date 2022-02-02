@@ -1,13 +1,13 @@
-# python__
-FACEBOOK >> Cookie to Token__
+# python\
+FACEBOOK >> Cookie to Token\
 
-Merubah cookie browser ke sebuah token__
+Merubah cookie browser ke sebuah token\
 
-Termux installation__
-pkg update && upgrade__
-pkg install python3__
-pip install requests__
+Termux installation\
+pkg update && upgrade\
+pkg install python3\
+pip install requests\
 pkg install git__
-git clone https://github.com/dhohirpradana/tcc.py__
-cd tcc__
-python3 tcc.pyc__
+git clone https://github.com/dhohirpradana/tcc.py\
+cd tcc\
+python3 tcc.pyc
